@@ -1,4 +1,6 @@
-print("Hello World")
-print("Hello")
-
-print('nice to meet you')
+1
+2
+3
+4
+5
+6
